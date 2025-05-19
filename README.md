@@ -2,7 +2,7 @@
 
 **`(FullStack developer | Background in practical software engineering |)`**
 
-As a software engineer, I thrive in collaborative, fast-paced environments where problem-solving and delivering high-quality work are paramount. With a strong work ethic and a dedication to continuous learning, I consistently seek out new challenges to grow my expertise and push the boundaries of my skills. My ability to adapt, innovate, and contribute effectively makes me a valuable asset to any team or project.
+Hi everyone
 
 ---
 ### 🧰 **Languages and Tools**  
