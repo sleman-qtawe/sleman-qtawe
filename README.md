@@ -1,8 +1,10 @@
 # 🪂 Sleman Qtawe
 
-**`(FullStack developer | Background in practical software engineering |)`**
+**`(FullStack Engineer)`**
 
-Hi everyone
+Full Stack Engineer with a diploma in Software Engineering. 
+I design and build efficient digital solutions across web and mobile platforms. 
+Passionate about technology and continuous improvement.
 
 ---
 ### 🧰 **Languages and Tools**  
