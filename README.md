@@ -1,11 +1,13 @@
 # 🪂 Sleman Qtawe
 
-**`(FullStack Engineer)`**
+**Software Engineer | Full-Stack Developer | AWS (EC2, S3)**  
 
-Full Stack Engineer with a diploma in Software Engineering. 
-I design and build efficient digital solutions across web and mobile platforms. 
-Passionate about technology and continuous improvement.
+Passionate technologist with a Software Engineering diploma, specializing in building efficient digital solutions for web and mobile platforms. Committed to continuous learning and delivering high-quality, scalable applications.  
 
+### Key Strengths:  
+- **Full-Stack Development**: End-to-end solution design and implementation  
+- **Cloud Computing**: Hands-on experience with AWS (EC2, S3)  
+- **Continuous Improvement**: Dedicated to optimizing performance and user experience
 ---
 
 ## 🌐 **Connect with Me**  
